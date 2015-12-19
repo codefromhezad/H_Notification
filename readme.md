@@ -7,7 +7,7 @@ A Web Notifications Helper.
 
 - Load necessary scripts
 
-```javascript
+```html
     <script src="js/helpers.js"></script>
     <script src="js/h_notification.js"></script>
 ```
